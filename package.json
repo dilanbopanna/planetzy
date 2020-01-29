@@ -1,13 +1,17 @@
 {
   "name": "planets",
   "version": "0.1.0",
+  "homepage": "https://myusername.github.io/my-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "animate.css": "^3.7.2",
+    "deploy": "gh-pages -d build",
+    "gh-pages": "^2.2.0",
     "mdbreact": "^4.25.0",
+    "predeploy": "npm run build",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
