@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/planetzy/static/css/main.8284b49d.chunk.css",
+    "main.css": "/planetzy/static/css/main.d71b3769.chunk.css",
     "main.js": "/planetzy/static/js/main.243b06f7.chunk.js",
     "main.js.map": "/planetzy/static/js/main.243b06f7.chunk.js.map",
     "runtime-main.js": "/planetzy/static/js/runtime-main.3ec3731f.js",
@@ -9,10 +9,10 @@
     "static/js/2.d0f7680f.chunk.js": "/planetzy/static/js/2.d0f7680f.chunk.js",
     "static/js/2.d0f7680f.chunk.js.map": "/planetzy/static/js/2.d0f7680f.chunk.js.map",
     "index.html": "/planetzy/index.html",
-    "precache-manifest.872943b3a30617c06dbb6ac09546c50f.js": "/planetzy/precache-manifest.872943b3a30617c06dbb6ac09546c50f.js",
+    "precache-manifest.36dcc563de16dcdb551d1f44224f332b.js": "/planetzy/precache-manifest.36dcc563de16dcdb551d1f44224f332b.js",
     "service-worker.js": "/planetzy/service-worker.js",
     "static/css/2.49b833e4.chunk.css.map": "/planetzy/static/css/2.49b833e4.chunk.css.map",
-    "static/css/main.8284b49d.chunk.css.map": "/planetzy/static/css/main.8284b49d.chunk.css.map",
+    "static/css/main.d71b3769.chunk.css.map": "/planetzy/static/css/main.d71b3769.chunk.css.map",
     "static/js/2.d0f7680f.chunk.js.LICENSE": "/planetzy/static/js/2.d0f7680f.chunk.js.LICENSE",
     "static/media/mdb.css": "/planetzy/static/media/arrow_right.8ef6a08c.svg",
     "static/media/earth-transparent.png": "/planetzy/static/media/earth-transparent.ed404fb4.png",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.3ec3731f.js",
     "static/css/2.49b833e4.chunk.css",
     "static/js/2.d0f7680f.chunk.js",
-    "static/css/main.8284b49d.chunk.css",
+    "static/css/main.d71b3769.chunk.css",
     "static/js/main.243b06f7.chunk.js"
   ]
 }
