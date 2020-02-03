@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/planetzy/static/css/main.cc1ab334.chunk.css",
-    "main.js": "/planetzy/static/js/main.238344cf.chunk.js",
-    "main.js.map": "/planetzy/static/js/main.238344cf.chunk.js.map",
+    "main.css": "/planetzy/static/css/main.2b3e0a65.chunk.css",
+    "main.js": "/planetzy/static/js/main.ce1deeaa.chunk.js",
+    "main.js.map": "/planetzy/static/js/main.ce1deeaa.chunk.js.map",
     "runtime-main.js": "/planetzy/static/js/runtime-main.3ec3731f.js",
     "runtime-main.js.map": "/planetzy/static/js/runtime-main.3ec3731f.js.map",
     "static/css/2.49b833e4.chunk.css": "/planetzy/static/css/2.49b833e4.chunk.css",
     "static/js/2.d0f7680f.chunk.js": "/planetzy/static/js/2.d0f7680f.chunk.js",
     "static/js/2.d0f7680f.chunk.js.map": "/planetzy/static/js/2.d0f7680f.chunk.js.map",
     "index.html": "/planetzy/index.html",
-    "precache-manifest.9ba47dd9ee9d44ecee168a3c6e415ded.js": "/planetzy/precache-manifest.9ba47dd9ee9d44ecee168a3c6e415ded.js",
+    "precache-manifest.efca81a11812db21bbc8bbddceea2972.js": "/planetzy/precache-manifest.efca81a11812db21bbc8bbddceea2972.js",
     "service-worker.js": "/planetzy/service-worker.js",
     "static/css/2.49b833e4.chunk.css.map": "/planetzy/static/css/2.49b833e4.chunk.css.map",
-    "static/css/main.cc1ab334.chunk.css.map": "/planetzy/static/css/main.cc1ab334.chunk.css.map",
+    "static/css/main.2b3e0a65.chunk.css.map": "/planetzy/static/css/main.2b3e0a65.chunk.css.map",
     "static/js/2.d0f7680f.chunk.js.LICENSE": "/planetzy/static/js/2.d0f7680f.chunk.js.LICENSE",
     "static/media/mdb.css": "/planetzy/static/media/arrow_right.8ef6a08c.svg",
     "static/media/earth-transparent.png": "/planetzy/static/media/earth-transparent.ed404fb4.png",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.3ec3731f.js",
     "static/css/2.49b833e4.chunk.css",
     "static/js/2.d0f7680f.chunk.js",
-    "static/css/main.cc1ab334.chunk.css",
-    "static/js/main.238344cf.chunk.js"
+    "static/css/main.2b3e0a65.chunk.css",
+    "static/js/main.ce1deeaa.chunk.js"
   ]
 }
