@@ -184,7 +184,7 @@ font: normal 15px/32px Montserrat, sans-serif;
   animation-delay: 2.5s;
 }
 .mercury-img:hover{
-  height: 4%;
+  transform: translateX(-5px);
 }
 
 
@@ -395,6 +395,20 @@ outline: none;
   display: block;
  
 }
+@media screen and (max-width: 500px) {
+  .column1 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .column2 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
 .card1{
   padding-top: 20px;
   color: white;
@@ -424,6 +438,42 @@ outline: none;
 
 
 }
+.card1 h4{
+  height: 50px;
+  font: normal 40px/50px Montserrat, sans-serif;
+  color: #e74c3c;
+  font-weight: 650;
+}
+.card2 h4{
+  height: 50px;
+  font: normal 40px/50px Montserrat, sans-serif;
+  color: transparent;
+  font-weight: 650;
+}
+@media screen and (max-width: 500px) {
+  .column3 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .card2 h4{
+    height: 50px;
+    font: normal 40px/50px Montserrat, sans-serif;
+    color: #e74c3c;
+    font-weight: 650;
+    padding-bottom: 5%;
+    text-align: center;
+  }
+ .column4 h4{
+  height: 50px;
+  font: normal 40px/50px Montserrat, sans-serif;
+  color: transparent;
+  font-weight: 650;
+ }
+.card1 {
+  padding-top: 0;
+}
+}
 .column4 {
   float:right;
   width:40%;
@@ -432,6 +482,16 @@ outline: none;
   display: block;
 
 }
+
+@media screen and (max-width: 500px) {
+  .column4 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+
+ 
+}
 .card2{
   padding-top: 20px;
   color: white;
@@ -439,12 +499,7 @@ outline: none;
 .card1{
   color: white;
 }
-.card1 h4{
-  height: 50px;
-  font: normal 40px/50px Montserrat, sans-serif;
-  color: #e74c3c;
-  font-weight: 650;
-}
+
 .card1 p{
   font: normal 20px/25px Montserrat, sans-serif;
 }
@@ -508,4 +563,10 @@ opacity: 0.6;
  }
  .ins-ic:hover{
 opacity: 0.6;
+ }
+ .card2 p {
+   padding-left: 7%;
+ }
+ .card2 {
+   padding-left: 3%;
  }

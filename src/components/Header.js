@@ -43,8 +43,8 @@ class Header extends React.Component {
                 <div class="innerIam">
                 Planets<br /> 
                 Universe<br />
-                Your weight on planets<br />
-                Your age on planets<br />
+                Weights<br />
+                Age<br />
                 Yourself
             </div>
                 </b>

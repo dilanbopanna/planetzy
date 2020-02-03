@@ -62,6 +62,7 @@ const Cards = () => {
   <div class="column3">
     <div class="card2">
     <Reveal right>
+    <h4>Venus</h4>
       <h5>Facts</h5>
       </Reveal>
       <Reveal right cascade>
