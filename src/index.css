@@ -182,12 +182,11 @@ font: normal 15px/32px Montserrat, sans-serif;
   animation-timing-function: linear;
   animation-fill-mode: forwards;
   animation-delay: 2.5s;
+ 
 }
 .mercury-img:hover{
-  transform: translateX(-5px);
+  height: 4%;
 }
-
-
 .venus-img {
   height: 4%;
   position: absolute;
@@ -455,6 +454,7 @@ outline: none;
     width: 100%;
     display: block;
     margin-bottom: 20px;
+    padding-left: 0;
   }
   .card2 h4{
     height: 50px;
@@ -569,4 +569,10 @@ opacity: 0.6;
  }
  .card2 {
    padding-left: 3%;
+ }
+ .follow-tag {
+   padding-bottom: 3%;
+   font-family: 'Montserrat';
+   text-align: center;
+   padding-right: 3%;
  }

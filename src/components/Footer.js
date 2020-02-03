@@ -12,6 +12,7 @@ const Footer = () => {
     <div class="row1">
 
       <div class="col-md-12  py-5">
+      <div class='follow-tag'>Follow me on</div>
         <div class="mb-5 flex-center">
 
        
