@@ -12,7 +12,7 @@ class Header extends React.Component {
       <div>
         <header>
           <Router>
-            <MDBNavbar color="indigo" dark expand="md" fixed="top">
+            <MDBNavbar class="navbar"color="indigo" dark expand="md" fixed="top">
               <MDBNavbarBrand className='header-tg'>
               <img class='logo-img' src={logo} alt="logo"/>
                 <strong>Planetzy</strong>

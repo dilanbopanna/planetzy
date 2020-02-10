@@ -579,3 +579,6 @@ opacity: 0.6;
  .card2 p {
    padding-left:5%;
  }
+.navbar {
+  position: sticky;
+}
