@@ -582,3 +582,6 @@ opacity: 0.6;
 .navbar {
   position: sticky;
 }
+.html {
+  scroll-behavior: smooth;
+}
