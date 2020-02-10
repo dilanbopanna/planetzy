@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb674d1385edf8b12ec7078db9c6af7d",
+    "revision": "45cb325d54f95344ee804c1e8e952196",
     "url": "/planetzy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planetzy/static/css/2.49b833e4.chunk.css"
   },
   {
-    "revision": "49dbe01629155a77d822",
-    "url": "/planetzy/static/css/main.9a4b7e89.chunk.css"
+    "revision": "e156eace7cd75fd707d6",
+    "url": "/planetzy/static/css/main.a80cb109.chunk.css"
   },
   {
     "revision": "90604a5e411310a36485",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planetzy/static/js/2.d0f7680f.chunk.js.LICENSE"
   },
   {
-    "revision": "49dbe01629155a77d822",
+    "revision": "e156eace7cd75fd707d6",
     "url": "/planetzy/static/js/main.9708a2f4.chunk.js"
   },
   {
